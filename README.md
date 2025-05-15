@@ -4,7 +4,7 @@ This project simulates real-world network attacks and defense strategies using K
 
 ---
 
-                                                    ## 📌 Project Information
+                                                  
 
 
 ## 🎯 Objectives
